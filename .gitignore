@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyTorch / ML
+*.pt
+*.pth
+checkpoints/
+runs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
