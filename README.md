@@ -139,24 +139,6 @@ To explicitly address adversarial vulnerability, adversarial fine‑tuning was a
 
 ---
 
-## Project Context
-
-This project lies at the intersection of:
-
-* **Cybersecurity**
-* **Adversarial Machine Learning**
-* **AI Safety & Trustworthy ML**
-
-It demonstrates how modern neural networks can be systematically attacked and why defending them remains a challenging security problem.
-
----
-
-## License
-
-Apache License 2.0
-
----
-
 ## Authors
 
 * Guus Branderhorst
