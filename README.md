@@ -51,7 +51,7 @@ Two baseline models were trained:
 
 ## Adversarial Attack: I‑FGSM
 
-The **Iterative Fast Gradient Sign Method (I‑FGSM)** is a gradient‑based white‑box attack that perturbs input images iteratively to maximize classification loss under an (L_\infty) constraint.
+The **Iterative Fast Gradient Sign Method (I‑FGSM)** is a gradient‑based white‑box attack that perturbs input images iteratively to maximize classification loss under an (L∞) constraint.
 
 **Key Properties**
 
